@@ -1,0 +1,4 @@
+ECHO 处于打开状态。
+-i http://pypi.doubanio.com/simple/
+Django~=2.2.28
+-e .
